@@ -1,0 +1,2 @@
+Col	Elm	Caz	Ser	Ped	Lil	Cav	Vez	Loe_LD	Loe_PA	DAV	Lae	Vig	Dac	Poe	Lai	Ren	Fon	Nie1	Nie2	Win	Dra	Wob	San	Suw	Pan	Loc	GLE	Bro	Tur	Gut	Ilo	Fur	Khi	Tor	Laa	For	Ina	Dol	Giu	Cuc	CIM	Ger	Ang	Cze
+82.1	53.9	63.6	78.7	30.4	58.9	38.3	20.3	102.4	102.4	102.1	56.9	38.3	37.7	27.8	21	28	27	21.7	21.7	27.3	51.6	25.1	23.9	17.2	12.8	116	88	34.9	34.2	19.5	31.9	34.5	34	49.5	17.9	132	15.9	35.4	70.2	70.2	13.5	61.6	29	35.4

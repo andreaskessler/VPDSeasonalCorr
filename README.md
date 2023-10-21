@@ -2,14 +2,14 @@
 Code to explore correlations between tree-ring oxygen-isotope ratios and climate variables of various seasons
 
 Description
-This package was written to calculate correlations between european oxigen isotope ratios 
-from treerings and CRU climate variables corresponding to the sites.
+This package was written to calculate correlations between European oxygen isotope ratios (delta 18O) 
+from tree rings and CRU climate variables corresponding to the sites.
 The data used is in the subdirectory data.
 The following python modules are present:
-- data.py Support for handling CRU timeseries and O18 time series.
-- data_defs.py Declaration of which data will be processed: sites, climate variables, time range. Edit this file to restric date, sites or climat variables.
+- data.py Support for handling CRU timeseries and delta 18O time series.
+- data_defs.py Declaration of which data will be processed: sites, climate variables, time range. Edit this file to restric date, sites or climate variables.
 - seasons.py Support for generating all possible seasons.
-- heatmap.py Calculate heatmaps for for the data declared in data_defs
+- heatmap.py Calculate heatmaps for the data declared in data_defs
 - sitecorr.py Calculate all site correlations for all climate variables for the standard seasons
 
 Usage
